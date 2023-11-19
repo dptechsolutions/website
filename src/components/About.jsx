@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        I am currently pursuing my BE in Computer Engineering from Thapar Institute of Engineering and Technology, where I was also the General Secretary of the Linux User Group. I am passionate and motivated about learning new technologies and developing innovative solutions. I am confident that I can use my skills and experience to contribute to your team and your goals.
+        I am currently pursuing my BE in Computer Engineering from Thapar Institute of Engineering and Technology,Patiala, where I was also the General Secretary of the Linux User Group. I am passionate and motivated about learning new technologies and developing innovative solutions. I am confident that I can use my skills and experience to contribute to your team and goals.
         </p>
 
         <br />
