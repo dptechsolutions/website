@@ -6,6 +6,8 @@ import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import postman from "../assets/postman.png";
+import gcp from "../assets/gcp.webp";
 
 const Experience = () => {
   const techs = [
@@ -40,11 +42,24 @@ const Experience = () => {
       style: "shadow-sky-400",
     },
     {
-      id: 7,
+      id: 6,
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
     },
+    {
+      id: 7,
+      src: postman,
+      title: "Postman",
+      style: "shadow-orange-500",
+    },
+    {
+      id: 8,
+      src: gcp,
+      title: "Google Cloud Platform",
+      style: "shadow-red-500",
+    },
+
   ];
 
   return (

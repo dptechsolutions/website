@@ -14,20 +14,11 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Currently a junior at Thapar Institute of Engineering and Technology, Punjab, India pursuing
-          my Bachelors in Engineering in Computer Engineering. 
+        I am currently pursuing my BE in Computer Engineering from Thapar Institute of Engineering and Technology, where I was also the General Secretary of the Linux User Group. I am passionate and motivated about learning new technologies and developing innovative solutions. I am confident that I can use my skills and experience to contribute to your team and your goals.
         </p>
 
         <br />
 
-        {/* <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
-        </p> */}
       </div>
     </div>
   );
