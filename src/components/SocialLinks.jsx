@@ -5,16 +5,16 @@ import {BsFillPersonLinesFill} from 'react-icons/bs'
 function SocialLinks() {
 
   const links =[
-    {
-      id: 1,
-      child:(
-            <>
-              Linkedin <FaLinkedin  size={30}/>
-            </>
-      ),
-      href: "https://www.linkedin.com/in/tejasvisjain/",
-      style: 'rounded-tr-md'
-    },
+    // {
+    //   id: 1,
+    //   child:(
+    //         <>
+    //           Linkedin <FaLinkedin  size={30}/>
+    //         </>
+    //   ),
+    //   href: "https://www.linkedin.com/in/tejasvisjain/",
+    //   style: 'rounded-tr-md'
+    // },
     {
       id: 2,
       child:(
@@ -22,7 +22,7 @@ function SocialLinks() {
               Github <FaGithub  size={30}/>
             </>
       ),
-      href: "https://www.github.com/TEJASVISJAIN/",
+      href: "https://github.com/dptechsolutions",
     },
     {
       id: 3,
@@ -31,16 +31,16 @@ function SocialLinks() {
               Mail <HiOutlineMail  size={30}/>
             </>
       ),
-      href: "mailto:tejasvisjain0214@gmail.com"
+      href: "mailto:adiandtsj@gmail.com.com"
     },
     {
       id: 4,
       child:(
             <>
-              Resume <BsFillPersonLinesFill  size={30}/>
+              Services <BsFillPersonLinesFill  size={30}/>
             </>
       ),
-      href: "/Tejasvi S Jain Resume.pdf",
+      href: "/pitch.pdf",
       style: 'rounded-br-md',
       download: true
     }
