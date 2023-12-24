@@ -5,12 +5,15 @@ import Portfolio from './components/Portfolio';
 import SocialLinks from './components/SocialLinks';
 import Experience from './components/Experience'
 import Contact from './components/Contact';
+import Reviews from './components/Reviews';
+import DragNDrop from './components/DragNDrop';
 
 function App() {
   return (
     <div className="App">
       <Home />
-      <About />
+      <DragNDrop />
+      <Reviews />
       <Portfolio />
       <Experience />
       <Contact />
